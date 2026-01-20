@@ -36,7 +36,7 @@ nix run nixpkgs#opencode           # or github:anomalyco/opencode for latest dev
 ```
 
 > [!TIP]
-> Remove versions older than 0.1.x before installing.
+> Remove versions older than 0.1.x before installing
 
 ### Desktop App (BETA)
 
